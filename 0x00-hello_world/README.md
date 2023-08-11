@@ -1,1 +1,1 @@
-6-size.c
+this is readme 
