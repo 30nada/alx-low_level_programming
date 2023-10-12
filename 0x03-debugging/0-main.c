@@ -9,12 +9,7 @@ int main(void)
 {
         int i;
 
-        i = 98 % 2;
+        i = 0;
         positive_or_negative(i);
-
-        return (0);
-<<<<<<< HEAD
+	return (0);
 }
-=======
-}i
->>>>>>> 0260bbeba5403b4c9ef93314560223f803adfd2d
