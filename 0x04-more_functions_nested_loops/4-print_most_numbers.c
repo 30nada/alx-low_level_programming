@@ -6,7 +6,7 @@
  * Return: the numder since 0 up to 9
  */
 
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
         int c;
         for  (; c <= 9, c++);
